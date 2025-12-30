@@ -1,6 +1,6 @@
 # Grade Report: Data Mining and Analytics 
 
-**Student:** 220242506098  
+**Student:** 220242406098  
 **Semester:** _ONE_                               
 **Academic Year:** _2025/2026_
 
@@ -12,8 +12,8 @@
 |--------------------|---------|-----------|----------------|
 | Class Participation|  10%    |           |                |
 | Assignment 0       |   4%    |       0.0 |                |
-| Assignment 1       |   6%    |           |                |
-| Quiz 1             |   4%    |           |                |
+| Assignment 1       |   6%    |      70.2 |                |
+| Quiz 1             |   4%    |      86.9 |                |
 | Assignment 2       |  10%    |           |                |
 | Assignment 3       |  12%    |           |                |
 | Test I             |   6%    |           |                |
@@ -21,4 +21,4 @@
 | Assignment 5       |  14%    |           |                |
 | Test II            |   6%    |           |                |
 | Assignment 6       |  15%    |           |                |
-| **Total**          | **100%**|   **0.00**|    **0.00/60** |
+| **Total**          | **100%**|  **54.91**|   **32.95/60** |
